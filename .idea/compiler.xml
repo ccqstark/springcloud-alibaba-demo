@@ -15,6 +15,7 @@
         <module name="provider-service3" />
         <module name="order-service" />
         <module name="consumer-service" />
+        <module name="gateway" />
       </profile>
     </annotationProcessing>
   </component>
