@@ -1,0 +1,13 @@
+package com.ccqstark.providerservice3;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ProviderService3ApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}

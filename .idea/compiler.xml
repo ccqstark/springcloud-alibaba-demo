@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-cloud-alibaba" />
+        <module name="warehouse-service" />
+        <module name="provider-service2" />
+        <module name="provider-service1" />
+        <module name="nacos-sample-service" />
+        <module name="provider-service3" />
+        <module name="order-service" />
+        <module name="consumer-service" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

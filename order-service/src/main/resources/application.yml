@@ -1,0 +1,33 @@
+spring:
+  application:
+    name: order-service #应用/微服务名字
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 49.234.82.226:8848 #nacos服务器地址
+        username: nacos #用户名密码
+        password: nacos
+
+server:
+  port: 8092
+
+warehouse-service: #服务提供者的微服务ID
+  ribbon:
+    #设置对应的负载均衡类
+    NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule
+
+feign:
+  compression:
+    request:
+      # 开启请求数据的压缩功能
+      enabled: true
+      # 压缩支持的MIME类型
+      mime-types: text/xml,application/xml, application/json
+      # 数据压缩下限 1024表示传输数据大于1024 才会进行数据压缩(最小压缩值标准)
+      min-request-size: 1024
+    # 开启响应数据的压缩功能
+    response:
+      enabled: true
+
+  okhttp:
+    enabled: true
