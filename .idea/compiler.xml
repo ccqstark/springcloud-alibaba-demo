@@ -8,7 +8,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-cloud-alibaba" />
+        <module name="sentinel-sample" />
         <module name="warehouse-service" />
+        <module name="nacos-config" />
         <module name="provider-service2" />
         <module name="provider-service1" />
         <module name="nacos-sample-service" />
