@@ -15,6 +15,9 @@
         <option value="$PROJECT_DIR$/gateway/pom.xml" />
         <option value="$PROJECT_DIR$/sentinel-sample/pom.xml" />
         <option value="$PROJECT_DIR$/nacos-config/pom.xml" />
+        <option value="$PROJECT_DIR$/a-service/pom.xml" />
+        <option value="$PROJECT_DIR$/b-service/pom.xml" />
+        <option value="$PROJECT_DIR$/c-service/pom.xml" />
       </list>
     </option>
   </component>

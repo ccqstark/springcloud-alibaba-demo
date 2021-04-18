@@ -7,16 +7,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="spring-cloud-alibaba" />
+        <module name="b-service" />
         <module name="sentinel-sample" />
+        <module name="c-service" />
         <module name="warehouse-service" />
-        <module name="nacos-config" />
         <module name="provider-service2" />
         <module name="provider-service1" />
-        <module name="nacos-sample-service" />
         <module name="provider-service3" />
-        <module name="order-service" />
         <module name="consumer-service" />
+        <module name="a-service" />
+        <module name="spring-cloud-alibaba" />
+        <module name="nacos-config" />
+        <module name="nacos-sample-service" />
+        <module name="order-service" />
         <module name="gateway" />
       </profile>
     </annotationProcessing>
