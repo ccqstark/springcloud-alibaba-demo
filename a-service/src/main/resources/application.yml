@@ -10,13 +10,13 @@ spring:
   application:
     name: a-service #a-service/b-service/c-service
 
-  sleuth:
-    sampler: #采样器
-      probability: 1.0 #采样率，采样率是采集Trace的比率，默认0.1
-      rate: 10000 #每秒数据采集量，最多n条/秒Trace
-  zipkin:
-    #设置zipkin服务端地址
-    base-url: http://49.234.82.226:9411
+#  sleuth:
+#    sampler: #采样器
+#      probability: 1.0 #采样率，采样率是采集Trace的比率，默认0.1
+#      rate: 10000 #每秒数据采集量，最多n条/秒Trace
+#  zipkin:
+#    #设置zipkin服务端地址
+#    base-url: http://49.234.82.226:9411
 
 #logging:
 #  level:

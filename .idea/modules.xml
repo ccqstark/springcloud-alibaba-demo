@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/c-service/c-service.iml" filepath="$PROJECT_DIR$/c-service/c-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-provider/rocketmq-provider.iml" filepath="$PROJECT_DIR$/rocketmq-provider/rocketmq-provider.iml" />
     </modules>
   </component>
 </project>

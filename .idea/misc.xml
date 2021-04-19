@@ -18,6 +18,8 @@
         <option value="$PROJECT_DIR$/a-service/pom.xml" />
         <option value="$PROJECT_DIR$/b-service/pom.xml" />
         <option value="$PROJECT_DIR$/c-service/pom.xml" />
+        <option value="$PROJECT_DIR$/rocketmq-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/rocketmq-consumer/pom.xml" />
       </list>
     </option>
   </component>
