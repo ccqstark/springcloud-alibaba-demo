@@ -18,9 +18,11 @@
         <module name="a-service" />
         <module name="spring-cloud-alibaba" />
         <module name="nacos-config" />
+        <module name="order-service-dubbo" />
         <module name="rocketmq-consumer" />
         <module name="nacos-sample-service" />
         <module name="order-service" />
+        <module name="warehouse-service-dubbo" />
         <module name="gateway" />
         <module name="rocketmq-provider" />
       </profile>

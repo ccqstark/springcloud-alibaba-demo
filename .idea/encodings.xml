@@ -15,6 +15,8 @@
     <file url="file://$PROJECT_DIR$/nacos-config/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/nacos-sample-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/nacos-sample-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-service-dubbo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-service-dubbo/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/order-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/order-service/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/provider-service1/src/main/java" charset="UTF-8" />
@@ -29,6 +31,8 @@
     <file url="file://$PROJECT_DIR$/rocketmq-provider/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sentinel-sample/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sentinel-sample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/warehouse-service-dubbo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/warehouse-service-dubbo/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/warehouse-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/warehouse-service/src/main/resources" charset="UTF-8" />
   </component>

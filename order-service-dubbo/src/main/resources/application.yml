@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: order-service-dubbo
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 49.234.82.226:8848
+        username: nacos
+        password: nacos
+server:
+  port: 9000
+dubbo:
+  application:
+    name: order-service-dubbo
+  registry:
+    address: nacos://49.234.82.226:8848
